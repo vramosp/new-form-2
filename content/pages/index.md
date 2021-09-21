@@ -151,9 +151,5 @@ sections:
           placeholder: Your home address
           isRequired: true
           width: full
-        - type: CheckboxFormControl
-          name: updates
-          label: Sign me up to receive updates
-          width: full
       submitLabel: Send
 ---
